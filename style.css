@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+h3{
+    color: green;
+}
+nav{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+label{
+    color: blue;
+    
+}
